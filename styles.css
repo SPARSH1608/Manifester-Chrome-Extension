@@ -1,0 +1,28 @@
+body {
+  width: 200px;
+  height: 120px;
+}
+#by {
+  font-size: 12px;
+  font-family: "Segoe UI";
+  color: #191821;
+  margin-top: 22px;
+  margin-left: 80px;
+}
+#manifested {
+  font-size: 15px;
+  margin-left: 15px;
+  margin-top: 15px;
+  font-family: "Helvetica Neue";
+  font-weight: 500;
+  font-style: italic;
+  color: #191818;
+  animation: ease-in 0.5s;
+}
+.quote {
+  border: 1px solid whitesmoke;
+  background-color: rgb(229, 241, 252);
+  border-radius: 10px;
+  width: 200px;
+  height: 120px;
+}
